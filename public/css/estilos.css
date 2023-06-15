@@ -1,0 +1,85 @@
+.formularioIniReg{
+    margin-top: 15%;
+}
+.registrarte{
+    border-top: 1px solid black;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.enlacesRes{
+    text-decoration: none;
+    color: #818181;
+}
+.enlacesRes:hover{
+    color: #c8c8c8;
+}
+.blanco{
+    color: white;
+}
+.blanco:hover{
+    color: #818181;
+}
+.error{
+    background-color: red;
+}
+.alertMui{
+    margin-left: 10%;
+    margin-right: 10%;
+   /* position: relative;
+    left: 40%;
+    width: 25%;*/
+}
+.escoderse{
+    visibility: hidden;
+}
+.tarjetas{
+    margin: 2%;
+}
+
+#placeHolderBlack::placeholder {
+    color: black;
+    opacity: 1;
+    border-bottom: 0px;
+}
+.labelIcono{
+    word-wrap: break-word; 
+}
+.icono{
+    padding: 0px;
+}
+
+.fondoTarjeta{
+    background-color: #c8c8c8;
+}
+.busqueda{
+    background-color: white;
+    padding-right: 2%;
+}
+.justi{
+    justify-content: right;
+}
+.tablaList{
+    background-color: #323539;
+}
+.idem{
+    position: absolute;
+    top: 15%;
+    bottom: 10%;
+    right: 2%;
+    font-size: 25px;
+  } 
+.tituloUsu{
+    position: absolute;
+    width: auto;
+    height: auto;
+}
+.bloqueUsu{
+    margin-top: 10%;
+}
+.iconoPDF{
+    width: 50px;
+    height: 50px;
+    margin-right: 2.5%;
+    margin-top: 1.5%;
+    color: #ff0000 
+}
